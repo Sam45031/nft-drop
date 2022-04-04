@@ -5,6 +5,9 @@
 /.pnp
 .pnp.js
 
+# We are ignoring the sanity and dependency modules so that git doesnt update it
+/sanity/node_modules
+
 # testing
 /coverage
 
